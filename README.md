@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, my name is Sebastian Andrade. 17 y/o Mechatronics Engineering student at The National University of Colombia and self taught programmer. I'm interested in learning new technologies regarding software development, back end development and machine learning.
+Hi, my name is Sebastian Andrade. 18 y/o Systems and Computer Engineering student at The National University of Colombia (UNAL) and self taught programmer. I'm interested in learning new technologies regarding software development, back end development and competitive programming.
 
 ## My stack
 
