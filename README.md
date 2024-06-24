@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, my name is Sebastian Andrade Cedano. 18 y/o Systems and Computer Engineering student at The National University of Colombia (UNAL) and self taught programmer. I'm interested in learning new technologies regarding software development and competitive programming.
+Hi, my name is Sebastian Andrade Cedano. 19 y/o Systems and Computer Engineering student at The National University of Colombia (UNAL) and self taught programmer. I'm interested in learning new technologies regarding software development and competitive programming.
 
 ## Skills
 
